@@ -1,0 +1,13 @@
+Data: 09/05/2018
+
+O ângulo entre dois vetores, em qualquer dimensão, pode ser calculado utilizando-se o produto escalar entre eles, ou seja, angle, em que:
+
+u e v representam os vetores;
+ é o produto escalar, dado pelo produto entre cada coordenada do vetor;
+|u| é a norma do vetor, dada pela raiz quadrada da soma dos quadrados das coordenadas do vetor;
+θ é o do ângulo formado entre os vetores, que queremos calcular
+
+
+Para esse exercício, você deve criar uma função que receba como parâmetro os vetores a serem processados e retorne o ângulo formado entre eles, em graus.
+
+A entrada do seu programa será um inteiro d, representando a dimensão em que se está calculando o ângulo, seguido de uma linha com d valores de ponto flutuante, representando as coordenadas do primeiro vetor e outra linha com as d coordenadas do segundo vetor. A saída do seu programa deve imprimir o ângulo entre os dois vetores (em graus), utilizando duas casas decimais.
