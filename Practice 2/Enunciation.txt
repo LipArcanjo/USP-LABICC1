@@ -1,0 +1,5 @@
+Alceu e Betina possuem dois filhos e adoram charadas matemáticas. Uma das manias do casal é esconder a idade dos filhos para quaisquer pessoa que pergunte sobre isso: ao invés de uma resposta direta, eles fazem a seguinte colocação:
+
+”A soma da idade dos nossos filhos é a, e o produto dos valores é b.”
+
+Como uma pessoa curiosa, você decidiu escrever um programa para todas as pessoas pudessem descobrir as idades dos filhos de Alceu e Betina. Sua tarefa é implementar um programa que receba dois valores inteiros: a soma e o produto das idades dos filhos. A saída deve ser a idade de cada um deles, em ordem crescente, da seguinte forma: "As idades sao N e M anos." (sem as aspas). Considere que as idades são todas não-negativas.
