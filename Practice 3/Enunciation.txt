@@ -1,0 +1,5 @@
+Cláudio passou pelo feriado de Páscoa na casa dos parentes e recebeu muitos ovos de chocolate como presente. Porém ele está com receio de comer todos eles e acabar ganhando muito peso. Preocupado com sua saúde, procurou saber sobre o assunto e descobriu que uma forma de estimar o peso ideal para sua altura era através do Índice de Massa Corporal (IMC), dada pela fórmula:
+
+imc = massa / altura^2 
+
+O problema é que ele não quer ficar calculando toda vez esse valor manualmente. Como possui amigos programadores, decidiu pedir ajuda a eles com um código que calcule automaticamente o IMC de cada pessoa. Sua tarefa, como amigo de Cláudio, é implementar um programa que receba dois valores reais (peso e altura) e calcule em que faixa de peso encontra-se o indivíduo:
