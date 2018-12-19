@@ -1,3 +1,5 @@
+Data: 17/04/2018
+
 O senhor Bâni adora coelhos e possui uma fazenda com vários desses animais. Porém, devido à idade já meio avançada, não consegue mais contar quantos bichinhos ele possui ao todo. O que ele bolou, então, foi construir várias casinhas enumeradas para que os coelhos possam entrar a noite, facilitando a contagem dos animais. Como os coelhos são temperamentais e organizados, eles formam uma fila para escolher em qual casinha vão dormir.
 
 Sua tarefa é implementar um programa que leia a quantidade de casinhas construídas pelo senhor Bâni e em qual casinha cada coelho escolheu para passar a noite. Como resultado, imprima a quantidade de coelhos em cada casinha e a quantidade total de coelhos.
