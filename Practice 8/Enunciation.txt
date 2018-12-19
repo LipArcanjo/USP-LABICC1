@@ -1,0 +1,9 @@
+Data: 09/05/2018
+
+O jogo de campo minado é jogado em uma campo n x m, n sendo o número de linhas, e m o número de colunas. Nesse campo são escondidas k minas em posições distintas. A função do jogador é selecionar posições do campo em que não hajam minas escondidas, caso contrário, ele perde o jogo. Caso uma posição sem mina seja escolhida, um inteiro entre 0 e 8 aparece, revelando quantas bombas estão presentes na região adjacente ou diagonalmente adjacente à posição escolhida. Veja um exemplo de um campo completo, com as minas e os descritos:
+
+<Ver IMG1.png>
+
+Sua tarefa aqui é escrever a configuração final de um campo minado, aplicando as regras descritas acima. A entrada do seu programa serão dois inteiros n e m correspondendo ao tamanho do campo a ser lido. Em seguida, uma matriz contendo os elementos do campo, sendo que . representa os espaços sem bomba e * representa as minas escondidas. Como saída do programa, você deve imprimir a matriz que representa a configuração final do campo, substituindo os caracteres de espaço sem bomba . pelo número correto.
+
+Obs.: Crie uma função que faça a tarefa para cada célula da matriz (campo).
