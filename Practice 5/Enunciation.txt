@@ -1,3 +1,5 @@
+Data: 11/04/2018
+
 Marcelo adora geometria e aprendeu que é possível calcular os valores trigonométricos sem auxílio da calculardora ou das bibliotecas matemáticas da sua linguagem de programação favorita. Através da série de potências, é possível obter os valores do seno e do coseno apenas realizando a soma:
 
 <Ver IMG1.png>
