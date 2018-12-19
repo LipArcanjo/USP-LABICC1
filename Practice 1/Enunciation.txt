@@ -1,3 +1,5 @@
+Data: 20/03/2018
+
 Matilda é uma criança muito esperta e está sendo incentivada desde criança a ter uma boa base econômica. Para isso, seu tio a está patrocinando com laranjas de seu pomar e sua mãe a ensinou como montar uma barraquinha e vender sucos de laranja em frente à sua casa. Com uma fruta de laranja, Matilda consegue fazer dois copos para vender. Porém, como ainda não aprendeu sobre a tabuada na escola, ela ainda tem dificuldades em saber quantos copos de suco consegue produzir.
 
 Ajude Matilda a contar os copos de suco implementando um programa que receba um valor inteiro das quantidades de laranja e imprima na tela o valor total de copos produzidos por Matilda. Sua saída deve ser: "Matilda conseguiu produzir N copos de suco." (sem as aspas), em que N é a resposta do seu programa. Considere que apenas números inteiros positivos serão dados como entrada.
