@@ -1,0 +1,12 @@
+Data: 04/04/2018
+
+Mariana está aprendendo, na escola, sobre os números inteiros e suas operações e seu professor apresentou os quatro tipo básicos: adição, subtração, multiplicação e divisão. Além disso, ela também aprendeu sobre as notações pré-fixa, infixa e pós fixa:
+
+Pré-fixa: o operador aparece antes do operandos (+ 4 7)
+Infixa: o operador aparece entre os operandos (4 + 7)
+Pós-fixa: o operador aparece depois do operandos (4 7 +)
+Ajude Mariana a realizar a tarefa de casa que envolve os cálculos das operações com as três notações. Para isso, você deve implementar um programa que leia a expressão aritmética e escreva o resultado final da mesma. Além disso, Mariana precisa saber uma das propriedades do resultado: se é par ou ímpar.
+
+A entrada do seu programa será um caracter representando o tipo de notação utilizada: pré-fixa (E), infixa (I) ou pós-fiva (O), seguida da expressão aritmética entre inteiros: adição (+), subtração (-), multiplicação (x) e divisão (:). Para cada expressão você deve imprimir o resultado e sua propriedade (se é par ou ímpar) com o seguinte padrão: "O resultado N eh par/impar.", em que N é o resultado obtido. Considere o valor 0 como sendo par. Para as expressões de divisão, é assegurado que o resultado obtido é um valor inteiro.
+
+Obs.: para esse exercício serão consideradas apenas as soluções que utilizarem a estrutura condicional switch.
