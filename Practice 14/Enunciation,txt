@@ -1,0 +1,5 @@
+Você foi encarregado de preparar um bolo de aniversário para o seu sobrinho. Como todo bom bolo de aniversário, você não poderia esquecer das velas do bolo. Para deixar a festa mais divertida, você decidiu colocar uma vela para cada ano que se sobrinho completou, ou seja, se ele estiver fazendo 4 anos, você vai colocar 4 velas. Porém, as velas possuem tamanhos diferentes e seu sobrinho só consegue soprar velas que possuem a mesma altura. Como ele sabe que para cada vela apagada um desejo é concedido, ele resolve apagar a maior quantidade de velas que estão na mesma altura.
+
+Dada a idade do seu sobrinho, N, qual o maior número de velas que ele conseguirá apagar na primeira soprada?
+
+A primeira linha do seu programa receberá um inteiro representando a idade do seu sobrinho (1 < N < 1e6), seguido de uma linha com N inteiros com a altura de cada vela (1 < altura < 1e6). A saída deve ser um inteiro com a maior quantidade de desejos que serão realizados, no formato M desejos realizados, em que M é o resultado esperado. Obs.: se o número de velas for 1, então a saída deve ser no singular (1 desejo realizado.).
