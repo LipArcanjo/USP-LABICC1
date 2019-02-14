@@ -1,0 +1,5 @@
+Além dos feriados espalhados ao longo do ano, os habitantes de Santa Carla também possuem os Anos de Sorte. Um ano é considerado de Sorte se ele possui apenas 1 dígito não nulo, ou seja, os anos 1000, 200, 30000 são considerados de Sorte, enquanto que os anos 2017, 144, 1001 não são.
+
+Dado o ano corrente em Santa Carla, quantos anos os habitantes locais precisarão esperar para que chegue o próximo Ano de Sorte?
+
+A primeira linha do seu programa será o ano corrente em Santa Carla, 1 < ano < 1e8. A saída deve conter a quantidade de anos a serem esperados no formato: Faltam N anos., em que N é o tempo os habitantes deverão esperar. Obs.: se a resposta for apenas um, a resposta deverá estar no singular.
